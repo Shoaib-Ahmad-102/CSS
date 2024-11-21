@@ -1,0 +1,21 @@
+h1{
+    color: darkblue;
+}
+p{
+    background-color:lightseagreen;
+}
+/* Id Selector */
+    #firstheadingred {
+        color: red;
+        background-color: lightblue;
+    }
+/* Class Selector */
+.secondheading, .thirdheading{
+    color: blue;
+    background-color: lightgray;
+}
+/* Group Selector */
+    header, footer{
+    color: darkgreen;
+    background-color: lightcyan;
+}
